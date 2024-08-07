@@ -57,7 +57,8 @@ class QuotesProvider extends ChangeNotifier {
 
   Future<void> getSharedPreferencesLike() async {
     SharedPreferences sharedPreferences = await SharedPreferences.getInstance();
-    sharedPreferences.getStringList('like');
+    sharedPreferences.get('like');
+    notifyListeners();
   }
 
   void removeSharedPreferences(int index){
