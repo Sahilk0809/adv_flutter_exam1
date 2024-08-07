@@ -1,16 +1,13 @@
-# adv_flutter_exam1
+# Quotes App
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/063bca0f-cf00-4709-b42b-28e6e4772515" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/72799855-0539-42ca-bd6f-0d4a257ae182" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/cd2cb67b-d7bf-4197-967a-0ea8444f4a39" height=65% width=22%>
 
-## Getting Started
+<a href="https://github.com/Sahilk0809/adv_flutter_exam1/tree/master/lib"> Click here for the source code </a>
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+QuoteMaster is a sleek and intuitive Flutter app designed to deliver daily inspiration at your fingertips. Leveraging the power of APIs, Shared Preferences, and the Provider package, QuoteMaster seamlessly fetches and stores your favorite quotes, ensuring you always have a dose of motivation ready. Customize your experience by saving, sharing, and organizing quotes with ease, making every day a little brighter and more insightful.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/39c536cf-9f76-4235-ae10-44aec9e2f387
